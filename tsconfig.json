@@ -1,0 +1,198 @@
+{
+  "cellType": "grid",
+  "title": "热门",
+  "cityList": [
+    {
+      "cName": "北京",
+      "cPY": "Beijing",
+      "cPYS": "BJ",
+      "extend": {
+        "cityId": "53"
+      }
+    },
+    {
+      "cName": "杭州",
+      "cPY": "Hangzhou",
+      "cPYS": "hz",
+      "extend": {
+        "cityId": "383"
+      }
+    },
+    {
+      "cName": "苏州",
+      "cPY": "SuZhou",
+      "cPYS": "sz",
+      "extend": {
+        "cityId": "226"
+      }
+    },
+    {
+      "cName": "上海",
+      "cPY": "Shanghai",
+      "cPYS": "SH",
+      "extend": {
+        "cityId": "321"
+      }
+    },
+    {
+      "cName": "广州",
+      "cPY": "Guangzhou",
+      "cPYS": "gz",
+      "extend": {
+        "cityId": "80"
+      }
+    },
+    {
+      "cName": "重庆",
+      "cPY": "chongqing",
+      "cPYS": "cq",
+      "extend": {
+        "cityId": "394"
+      }
+    },
+    {
+      "cName": "宁波",
+      "cPY": "ningbo",
+      "cPYS": "nb",
+      "extend": {
+        "cityId": "388"
+      }
+    },
+    {
+      "cName": "南京",
+      "cPY": "nanjing",
+      "cPYS": "nj",
+      "extend": {
+        "cityId": "224"
+      }
+    },
+    {
+      "cName": "厦门",
+      "cPY": "Xiamen",
+      "cPYS": "xm",
+      "extend": {
+        "cityId": "61"
+      }
+    },
+    {
+      "cName": "成都",
+      "cPY": "Chengdu",
+      "cPYS": "cd",
+      "extend": {
+        "cityId": "324"
+      }
+    },
+    {
+      "cName": "青岛",
+      "cPY": "Qingdao",
+      "cPYS": "QD",
+      "extend": {
+        "cityId": "292"
+      }
+    },
+    {
+      "cName": "西安",
+      "cPY": "Xi\'an",
+      "cPYS": "xa",
+      "extend": {
+        "cityId": "317"
+      }
+    },
+    {
+      "cName": "无锡",
+      "cPY": "Wuxi",
+      "cPYS": "wx",
+      "extend": {
+        "cityId": "229"
+      }
+    },
+    {
+      "cName": "温州",
+      "cPY": "wenzhou",
+      "cPYS": "wz",
+      "extend": {
+        "cityId": "391"
+      }
+    },
+    {
+      "cName": "郑州",
+      "cPY": "Zhengzhou ",
+      "cPYS": "ZZ",
+      "extend": {
+        "cityId": "163"
+      }
+    },
+    {
+      "cName": "武汉",
+      "cPY": "wuhan",
+      "cPYS": "wh",
+      "extend": {
+        "cityId": "192"
+      }
+    },
+    {
+      "cName": "深圳",
+      "cPY": "shenzhen",
+      "cPYS": "sz",
+      "extend": {
+        "cityId": "91"
+      }
+    },
+    {
+      "cName": "天津",
+      "cPY": "Tianjin",
+      "cPYS": "TJ",
+      "extend": {
+        "cityId": "343"
+      }
+    },
+    {
+      "cName": "福州",
+      "cPY": "fuzhou",
+      "cPYS": "fz",
+      "extend": {
+        "cityId": "54"
+      }
+    },
+    {
+      "cName": "济南",
+      "cPY": "Jinan",
+      "cPYS": "JN ",
+      "extend": {
+        "cityId": "287"
+      }
+    },
+    {
+      "cName": "长沙",
+      "cPY": "changsha",
+      "cPYS": "cs",
+      "extend": {
+        "cityId": "199"
+      }
+    },
+    {
+      "cName": "沈阳",
+      "cPY": "Shenyang ",
+      "cPYS": "SY",
+      "extend": {
+        "cityId": "256"
+      }
+    },
+    {
+      "cName": "常州",
+      "cPY": "changzhou",
+      "cPYS": "cz",
+      "extend": {
+        "cityId": "221"
+      }
+    },
+    {
+      "cName": "合肥",
+      "cPY": "hefei",
+      "cPYS": "hf",
+      "extend": {
+        "cityId": "42"
+      }
+    }
+  ]
+}
